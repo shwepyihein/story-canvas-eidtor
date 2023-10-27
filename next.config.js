@@ -5,7 +5,7 @@ const nextConfig = {
     return config;
   },
   experimental: {
-    serverComponentsExternalPackages: ['fabric'],
+    serverComponentsExternalPackages: ['konvas'],
   },
 };
 

@@ -2284,11 +2284,6 @@ next@13.5.6:
     "@next/swc-win32-ia32-msvc" "13.5.6"
     "@next/swc-win32-x64-msvc" "13.5.6"
 
-node-canvas@^2.9.0:
-  version "2.9.0"
-  resolved "https://registry.yarnpkg.com/node-canvas/-/node-canvas-2.9.0.tgz#703ead42750f3e6e7c50e6dc2e9ec06dd437d699"
-  integrity sha512-QYqBq9vm+hWrPyqRUyIRYlrWCWL8IysaDuvM79ZLx694ojctbpHQ4Iu45SZZYSBgiGtSuP2oil9ae1xQloeC9Q==
-
 node-fetch@^2.6.7:
   version "2.7.0"
   resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.7.0.tgz#d0f0fa6e3e2dc1d27efcd8ad99d550bda94d187d"
